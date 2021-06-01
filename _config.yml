@@ -3,3 +3,4 @@ title: "VS Cobble Mod Download"
 description: "VS COBBLE MOD OFFICIAL DOWNLOAD"
 show_downloads: true
 url: "https://prokube.github.io/VSCobbleMod/"
+replace-index-with: "https://raw.githubusercontent.com/prokube/VSCobbleMod/gh-pages/homepage.md"

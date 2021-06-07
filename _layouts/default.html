@@ -29,12 +29,9 @@
         {% endif %}
       </header>
       <section id="content">
+
       {% include header.html %}
-      {% if page.url == "/" %}
-      <!-- yay i'm NOT stupid -->
-      {% else %}
       {{ content }}
-      {% endif %}
 
       </section>
       <footer>
